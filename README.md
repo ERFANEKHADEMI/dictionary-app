@@ -15,3 +15,7 @@ This project is a Dictionary App built using React.js and the DictionaryAPI to f
 
 - Run npm install to install dependencies
 - Run npm start to launch the local server
+
+## Live Demo
+
+https://dictionary-app-plum-iota.vercel.app/
